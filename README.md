@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <p>Trabalho desenvolvido no segundo semestre na disciplina de Python.</p>
+    <p>Trabalho desenvolvido no segundo semestre do curso de Engenharia da Computação na disciplina de Python.</p>
     <p>Com o objetivo de aprender mais sobre as bibliotecas pandas e desenvolver extração de dados.</p>
     <p>Para isso, foi realizada uma pesquisa sobre o que motiva as pessoas a doarem para instituições não governamentais. Após a coleta de dados, foi extraído o arquivo CSV que foi usado para análise e tirar algumas conclusões.</p>
     <p>Ao compilar este código, você pode observar os gráficos gerados.</p>
